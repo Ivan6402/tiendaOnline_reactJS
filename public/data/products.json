@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Parrilla Super",
+    "description": "lorem ipsun",
+    "price": 380000,
+    "image" : "/public/img/parrillas/super.webp",
+    "category": "parrilla"
+  },
+  {
+    "id": 2,
+    "name": "Parrilla Killari",
+    "description": "lorem ipsun",
+    "price": 200000,
+    "image": "/public/img/parrillas/killari.webp",
+    "category": "parrilla"
+  },
+  {
+    "id": 3,
+    "name": "Parrilla Lechonera",
+    "description": "lorem ipsun",
+    "price": 990000,
+    "image": "/public/img/parrillas/lechonera.webp",
+    "category": "parrilla"
+  },
+  {
+    "id": 4,
+    "name": "Parrilla Ahijuna",
+    "description": "lorem ipsun",
+    "price": 680000,
+    "image": "/public/img/parrillas/ahijuna.webp",
+    "category": "parrilla"
+  }
+]
